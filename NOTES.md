@@ -12,10 +12,9 @@ Below the functions, a loop goes through the scores, prints each valid one with 
 Stretch: it also prints PASS/FAIL for each score (F is a fail) and counts how many passed and failed.
 
 ## What got me stuck
-
 - Why average of an empty list gives NaN (0 / 0) and how the guard fixes it
 - Remembering that process.argv values are strings, so they need Number()
 - Whether the average should include invalid scores (I chose to leave them out) -->
 
 ## Did I use AI?
-Yes. I used Claude to help me fix where i got stucked .
+Yes. I used Claude to help me solve where I got stucked. 
