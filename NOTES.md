@@ -18,3 +18,11 @@ Stretch: it also prints PASS/FAIL for each score (F is a fail) and counts how ma
 
 ## Did I use AI?
 Yes. I used Claude to help me solve where I got stucked. 
+
+
+# Week 5 Notes: Array workout 
+## What I built: Functions to work on student scores.
+
+##What got me stuck: getTopScorer. I first tried to find the highest score directly with find, then I realised I have to find the highest score first, then find the student with that score.
+
+##Did I use AI: Yes, I used it to explain the array methods.
